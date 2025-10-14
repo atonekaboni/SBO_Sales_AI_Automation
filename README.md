@@ -67,6 +67,12 @@ The workflow uses JavaScript Code nodes for data processing and AI prompt genera
   </a>
 </p>
 
+## Why This Project?
+
+This workflow can save hours of manual work and bring real-time visibility into sales performance. Once running, it delivers daily reports to Telegram without manual input, while the AI analysis identifies patterns that manual reviews might miss.
+
+The initial setup takes a few hours, but the time investment pays off quickly. If you have Docker running and basic JavaScript knowledge, implementation is straightforward. Beyond sales reporting, this same approach extends to other SAP B1 modules like purchasing or inventory management, making it a cost-effective alternative to enterprise automation platforms with more control over what gets reported.
+
 ## Documentation
 
 - [Full Tutorial (PDF)](https://github.com/user-attachments/files/22624398/4_SAPB1_SALES_AI_n8n.pdf) - Complete implementation guide with screenshots
