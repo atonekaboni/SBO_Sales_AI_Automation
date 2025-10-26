@@ -9,6 +9,7 @@ Intelligent sales automation for SAP Business One that connects ERP data with AI
 [![n8n](https://img.shields.io/badge/n8n-Code-EA4B71)](https://gist.github.com/atonekaboni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/tonekaboni_automating-sap-business-one-with-n8n-activity-7338469577615421440-7kD7)
 [![Guide](https://img.shields.io/badge/Full%20Guide-PDF-EC1C24?logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/22624398/4_SAPB1_SALES_AI_n8n.pdf)
+[![SAP](https://img.shields.io/badge/Blog-0FAAFF?logo=sap&logoColor=white)](https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-members/automating-sap-business-one-sales-reporting-with-n8n-ai-and-telegram/ba-p/14243875)
 
 ## Overview
 
