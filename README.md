@@ -93,10 +93,10 @@ View all projects: [GitHub Repository](https://github.com/atonekaboni/SBO)
 
 ## Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tonekaboni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/atonekaboni/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  &nbsp;&nbsp;
-  <a href="https://atonekaboni.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-</p>
+**Amirhossein Tonekaboni**
+<br> SAP Business One Consultant
+<br> BI Analyst
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonekaboni)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/atonekaboni/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://atonekaboni.ir)
